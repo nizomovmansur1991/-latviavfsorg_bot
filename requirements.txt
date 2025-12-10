@@ -3,3 +3,5 @@ requests
 beautifulsoup4
 selenium
 webdriver-manager
+uvloop
+python-telegram-bot==20.5
